@@ -3,7 +3,9 @@
 # TV Program
 
 # Create a TV class
+class TV:
 # Set attributes for TV class
+    def __init__ (self, channel = 1, volume_level = 1, switch = False):
 # Turn on the TV
 # Turn off the TV
 # Get the channel of TV
