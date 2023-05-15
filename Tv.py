@@ -6,6 +6,9 @@
 class TV:
 # Set attributes for TV class
     def __init__ (self, channel = 1, volume_level = 1, switch = False):
+        self.channel = channel
+        self.volume_level = volume_level
+        self.switch = switch
 # Turn on the TV
 # Turn off the TV
 # Get the channel of TV
