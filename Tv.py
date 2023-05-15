@@ -10,7 +10,13 @@ class TV:
         self.volume_level = volume_level
         self.switch = switch
 # Turn on the TV
+    def turn_on(self):
+        self.switch == True
+        print("The TV is on")
 # Turn off the TV
+    def turn_off(self):
+        self.switch == False
+        print("The TV is off")
 # Get the channel of TV
 # Set new channel of TV
 # Get the volume of TV
