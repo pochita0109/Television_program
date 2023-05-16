@@ -32,6 +32,10 @@ class TV:
         if 1 <= volume_level >=7:
             self.volume_level = volume_level
 # Increase the channel by 1
+    def channel_increase(self):
+        self.channel += 1
 # Decrease the channel by 1
+    def channel_decrease(self):
+        self.channel -= 1
 # Increase the volume by 1
 # Decrease the volume by 1
