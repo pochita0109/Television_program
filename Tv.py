@@ -18,8 +18,14 @@ class TV:
         self.switch == False
         print("The TV is off")
 # Get the channel of TV
+    def get_channel(self):
+        return self.channel
 # Set new channel of TV
+    def set_channel(self, channel):
+        if 1 <= channel >= 120:
+            self.channel = channel
 # Get the volume of TV
+
 # Set new volume of TV
 # Increase the channel by 1
 # Decrease the channel by 1
