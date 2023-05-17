@@ -12,7 +12,7 @@ class TV:
 # Turn on the TV
     def turn_on(self):
         self.switch == True
-        print("The TV is on")
+        print("\033[93mThe TV is on")
 # Turn off the TV
     def turn_off(self):
         self.switch == False
