@@ -19,11 +19,12 @@ Process:
 13. Add volume and channel for TV1 and TV2 and print the output.
 
 The output will look like this:
-![image](https://github.com/pochita0109/Television_program/assets/129735606/f78fc7df-4942-472a-86ee-d6f479489e7a)
+![346130712_947535729891777_6478252216882057298_n](https://github.com/pochita0109/Television_program/assets/129735606/9d17efa5-cff9-488a-88f0-9a539a18a19a)
 
 
 Video Demonstration:
-https://github.com/pochita0109/Television_program/assets/129735606/f98eca40-3d77-4ca0-849f-78669d638e57
+https://github.com/pochita0109/Television_program/assets/129735606/1354c0da-4699-493f-9e0e-e8dc05b9649f
+
 
 Kenneth John Costa
 
